@@ -16,7 +16,7 @@ git clone https://github.com/maralov/goit-js-hw-webpack-starter.git
 Переименовать папку сборки именем вашего проекта.
 
 ```shell
-mv webpack-starter-kit имя_проекта
+mv goit-js-hw-webpack-starter имя_проекта
 ```
 
 Затем перейти в папку проекта.
@@ -31,7 +31,6 @@ cd имя_проекта
 ```shell
 npx rimraf .git
 ```
-
 
 Установить все зависимости.
 
