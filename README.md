@@ -10,7 +10,7 @@
 Для быстрого старта необходимо склонировать репозиторий.
 
 ```shell
-git clone https://github.com/luxplanjay/webpack-starter-kit.git
+git clone https://github.com/maralov/goit-js-hw-webpack-starter.git
 ```
 
 Переименовать папку сборки именем вашего проекта.
@@ -31,6 +31,7 @@ cd имя_проекта
 ```shell
 npx rimraf .git
 ```
+
 
 Установить все зависимости.
 
